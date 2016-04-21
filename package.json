@@ -1,0 +1,11 @@
+{
+  "name": "jquery-date-range-picker",
+  "original-version": "0.0.3",
+  "version": "0.0.3",
+  "description": "A jQuery plugin that allows user to select a date range http://jszen.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inconsiderate/jquery-date-range-picker.git"
+  },
+  "author": "Chunlong (https://github.com/longbill)"
+}
